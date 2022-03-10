@@ -11,19 +11,24 @@
 ###===###++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ###===###
-This repository is currently under construction, please contact NicK via the email address
+This is the official repository for 
+"The Health Gym:
+Synthetic Health-Related Datasets for the Development of Reinforcement Learning Algorithms"
+
+The repository is currently under construction, please contact NicK via the email address
 n.kuo@unsw.edu.au
 
-Notes:
 ###===###
-10th March, 2022:
+Latest News:
 1) An initial version of the repository is now available.
+   1.1) The repository is still mostly empty.
+   1.2) Nic is still doing his best cleaning up the codes.
 2) The paper will be archived soon.
 3) Our associated website will be ready soon.
-4) The codes associated with the hypotension and sepsis datasets are available.
-5) And the hypotension and sepsis datasets can be found on our PhysioNet web/
-   (see https://www.physionet.org/content/synthetic-mimic-iii-health-gym/1.0.0/)
-6) Nic is still doing his best cleaning up the codes associated with the HIV dataset.
+4) The hypotension and sepsis datasets are now ready.
+   4.1) You can find them through our PhysioNet project
+        "Synthetic Acute Hypotension and Sepsis Datasets Based on MIMIC-III and Published as Part of the Health Gym Project"
+        (see https://www.physionet.org/content/synthetic-mimic-iii-health-gym/1.0.0/)
 
 ###===###
 Date updated: 10th of March, 2022 "eji u.4tp6"

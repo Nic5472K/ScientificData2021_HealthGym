@@ -22,8 +22,8 @@ n.kuo@unsw.edu.au
 Latest News:
 1) An initial version of the repository is now available.
    1.1) The repository is still mostly empty.
-   1.2) Nic is still doing his best cleaning up the codes.
-2) The paper will be archived soon.
+   1.2) Nic is currently finalising the codes.
+2) A preliminary version of the paper will be archived soon.
 3) Our associated website will be ready soon.
 4) The hypotension and sepsis datasets are now ready.
    4.1) You can find them through our PhysioNet project

@@ -23,6 +23,7 @@ Notes:
 4) The codes associated with the hypotension and sepsis datasets are available.
 5) And the hypotension and sepsis datasets can be found on our PhysioNet web/
    (see https://www.physionet.org/content/synthetic-mimic-iii-health-gym/1.0.0/)
+6) Nic is still doing his best cleaning up the codes associated with the HIV dataset.
 
 ###===###
 Date updated: 10th of March, 2022 "eji u.4tp6"

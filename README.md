@@ -27,7 +27,8 @@ Latest News:
 3) Our associated website will be ready soon.
 4) The hypotension and sepsis datasets are now ready.
    4.1) You can find them through our PhysioNet project
-        "Synthetic Acute Hypotension and Sepsis Datasets Based on MIMIC-III and Published as Part of the Health Gym Project"
+        "Synthetic Acute Hypotension and Sepsis Datasets 
+         Based on MIMIC-III and Published as Part of the Health Gym Project"
         (see https://www.physionet.org/content/synthetic-mimic-iii-health-gym/1.0.0/)
 
 ###===###

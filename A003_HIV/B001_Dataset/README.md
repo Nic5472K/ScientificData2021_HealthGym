@@ -25,7 +25,7 @@ Together, there are 8,916 synthetic patients in total:
   i) The first 4,459 synthetic patient data are in part 1; and
  ii) the remaining 4,457 synthetic patient data are in part 2. 
 
-For more information, please contact Nic Kuo at n.kuo@unsw.edu.au
+For more information, please contact Nic at n.kuo@unsw.edu.au .
 
 ###===###
 Date updated: 18th of March, 2022 "eji u.4tp6"

@@ -9,7 +9,8 @@ Please Contant Nic at n.kuo@unsw.edu.au for more details.
 
 ###===###
 Latest News:
-1) Our synthetic HIV dataset, and its associated codes, will be made available soon.
+1) Our synthetic HIV dataset is made available. 
+2) Its associated codes, will be made available soon.
 
 ###===###
-Date updated: 14th of March, 2022 "eji u.4tp6"
+Date updated: 18th of March, 2022 "eji u.4tp6"

@@ -14,7 +14,7 @@
 This folder contains the HIV datasets.
 
 ###===###
-The synthetic dataset is larger than 25 MBs, hence I cannot upload it to Github.
+The synthetic dataset is larger than 25 MBs, hence I cannot upload it to GitHub.
 For those who are interested, please download it through the following Google Drive
 https://drive.google.com/drive/folders/1j_T0mfULP7PfM7S6PFvmODC7z23yoYG2?usp=sharing
 

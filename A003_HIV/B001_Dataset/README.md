@@ -14,16 +14,9 @@
 This folder contains the HIV datasets.
 
 ###===###
-There are 2 files in this folder:
-  i) ZZZ_C001_FakeHIV_part1.csv; and
- ii) ZZZ_C001_FakeHIV_part2.csv.
-
-GitHub does not allow me to upload files larger than 25MBs, and
-that's the reason why the dataset was split into two.
-
-Together, there are 8,916 synthetic patients in total:
-  i) The first 4,459 synthetic patient data are in part 1; and
- ii) the remaining 4,457 synthetic patient data are in part 2. 
+The synthetic dataset is larger than 25 MBs, hence I cannot upload it to Github.
+For those who are interested, please download it through the following Google Drive
+https://drive.google.com/drive/folders/1j_T0mfULP7PfM7S6PFvmODC7z23yoYG2?usp=sharing
 
 For more information, please contact Nic at n.kuo@unsw.edu.au .
 

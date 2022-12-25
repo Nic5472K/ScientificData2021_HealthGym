@@ -97,7 +97,7 @@ you can get even better results after 200 epochs.
 
 #---
 Further note:
-A) This is not a standalone programme
+A) This is not a standalone software
  	- If you wish to use your own dataset, you will need to manually modify 
  	  Z001_DataPreprocessing.py .
 B) We assume you are generating time series data (e.g., blood glucose level over time)

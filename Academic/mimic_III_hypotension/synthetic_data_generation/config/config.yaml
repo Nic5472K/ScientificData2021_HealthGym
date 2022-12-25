@@ -1,0 +1,17 @@
+project:
+    name: health gym
+    data: hypotension
+
+dir:
+    data: ../data/
+    config: config/
+    mlruns: mlruns/
+    
+max_sequence_length: 48
+batch_size: 128
+epochs: 5000
+G_iter: 5
+gp_weight: 10
+curriculum_lengths: [1, 2, 3, 5, 10, 20, 30, 40, 48]
+variable_length: False
+num_samples: 3910

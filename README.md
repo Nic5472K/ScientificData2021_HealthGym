@@ -35,7 +35,8 @@ and
  	B) Academic: with the codes commented line by line
 
 Note:
-We are not the data custodians and we do not (and cannot) provide you the ground truth datasets for acute hypotension, sepsis, and ART for HIV.
+We are not the data custodians and we do not (and cannot) provide you
+the ground truth datasets for acute hypotension, sepsis, and ART for HIV.
 
 
 Please enquire for data access through

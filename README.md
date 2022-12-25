@@ -15,31 +15,47 @@ This is the official repository for
 "The Health Gym:
 Synthetic Health-Related Datasets for the Development of Reinforcement Learning Algorithms"
 
-The repository is currently under construction, please contact NicK via the email address
-n.kuo@unsw.edu.au
+###===###
+Refer to our website at:
+https://healthgym.ai/
+
+Refer to our paper on Scientific Data at:
+https://www.nature.com/articles/s41597-022-01784-7
+
+Refer to our synthetic acute hypotension and synthetic sepsis datasets at:
+https://physionet.org/content/synthetic-mimic-iii-health-gym/1.0.0/
+
+Refer to our synthetic ART for HIV dataset at:
+https://figshare.com/articles/dataset/The_Heath_Gym_Synthetic_HIV_Dataset/19838470
 
 ###===###
-Latest News:
-1) Our paper is now accepted and available on ScientificData.
-   See: https://www.nature.com/articles/s41597-022-01784-7
+Two versions of the code can be found in this repository
+ 	A) Demo: with descriptions on preprocessing the ground truth dataset
+and
+ 	B) Academic: with the codes commented line by line
 
-2) Find our associated website below.
-   See: https://healthgym.ai/
+Note:
+We are not the data custodians and we do not (and cannot) provide you the ground truth datasets for acute hypotension, sepsis, and ART for HIV.
 
-3) All datasets are now ready.
-   3.1) You can find the hypotension and sepsis datasets on our PhysioNet project website
-        "Synthetic Acute Hypotension and Sepsis Datasets 
-         Based on MIMIC-III and Published as Part of the Health Gym Project"
-        (see https://www.physionet.org/content/synthetic-mimic-iii-health-gym/1.0.0/)
-   
-   3.2) The HIV dataset is in this repository, see A003_HIV/B001_Dataset/ .
-        Or alternatively
-        https://github.com/Nic5472K/ScientificData2021_HealthGym/blob/main/A003_HIV/B001_Dataset/README.md .
 
-4) The codes are not ready yet.
-   4.1) Nic is working towards releasing everything by Christmas.
-   
-   4.2) Alternatively, you can email Nic for some early unfinalised codes.
+Please enquire for data access through
+PhysioNet: 	https://physionet.org/content/mimiciii/1.4/
+and
+EuResist:   	https://www.euresist.org/
+
+If you use this repository, please cite
+@article{nicholas2022health,
+  title={the Health Gym: synthetic health-related datasets for the development of reinforcement learning algorithms},
+  author={Nicholas, I and Kuo, Hsien and Polizzotto, Mark N and Finfer, Simon and Garcia, Federico and S{\"o}nnerborg, Anders and Zazzi, Maurizio and B{\"o}hm, Michael and Kaiser, Rolf and Jorm, Louisa and others},
+  journal={Scientific Data},
+  volume={9},
+  number={1},
+  year={2022},
+  publisher={Nature Publishing Group}
+}
+
+For further enquiries, please contact:
+n.kuo@unsw.edu.au
         
 ###===###
-Date updated: 22nd of November, 2022 "eji u.4tp6"
+Date updated: 25th of December, 2022 "eji u.4tp6"

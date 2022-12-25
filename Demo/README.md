@@ -91,7 +91,7 @@ you can get even better results after 200 epochs.
  		D_SD: 		B002_D_StateDict_Epoch100
  		PreEpoch: 	100
  	- Caution: do not change the other hyper-parameter settings.
- 	  : )
+ 	  :)
  	- Re-execute the main script A003_Main.py ;
  	- and re-inspect your results in Z000_Image, Z001_Data, and Z002_Parameters.
 

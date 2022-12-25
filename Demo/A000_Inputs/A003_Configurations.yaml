@@ -4,7 +4,7 @@
 
  # experimental hyper-parameters
  BatchSize:     32
- Epochs:        200
+ Epochs:        100
 
  # training hyper-parameters
  G_iter:        5
@@ -20,9 +20,9 @@
  Betas:         [0.9, 0.99]
 
  # additional information to fine-tune an existing model
- Continue_YN:   True
- G_SD:          B002_G_StateDict_Epoch100
- D_SD:          B002_D_StateDict_Epoch100
- PreEpoch:      100
+ Continue_YN:   False
+ G_SD:          B002_G_StateDict_Epoch000
+ D_SD:          B002_D_StateDict_Epoch000
+ PreEpoch:      000
 
  

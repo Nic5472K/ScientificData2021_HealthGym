@@ -1,0 +1,28 @@
+---
+ # for reproducibility
+ seed:          0
+
+ # experimental hyper-parameters
+ BatchSize:     32
+ Epochs:        200
+
+ # training hyper-parameters
+ G_iter:        5
+ GP_Lambda:     10
+ C_Lambda:      10
+
+ # network hyper-parameters
+ ID:            128
+ HD:            128
+
+ # optimisation hyper-parameters
+ LR:            1e-3
+ Betas:         [0.9, 0.99]
+
+ # additional information to fine-tune an existing model
+ Continue_YN:   True
+ G_SD:          B002_G_StateDict_Epoch100
+ D_SD:          B002_D_StateDict_Epoch100
+ PreEpoch:      100
+
+ 

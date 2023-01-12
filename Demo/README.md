@@ -112,8 +112,16 @@ C) All patients in C001_FakeSepsis.csv have 20 units of time series data
 
 For further enquiries, please contact:
 n.kuo@unsw.edu.au
+
+###===###
+2023-01-12 update:
+Slight modifications to four files:
+  - Z001: The folder names are now made generic.
+  - C002: The rescaled age variable is no longer divided by 365.25.
+  - C008: Fixed the order of variables.
+  - B005: Fixed the labels of GCS to 3 - 15.  
         
 ###===###
-Date updated: 25th of December, 2022 "eji u.4tp6"
+Date updated: 12th of January, 2023 "eji u.4tp6"
 
 

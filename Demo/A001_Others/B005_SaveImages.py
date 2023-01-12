@@ -134,7 +134,7 @@ def ExecuteB005(wgan_gp,
                 mapper = {"0":"False", "1":"True"}
 
         elif itr == 38:
-            mapper = {str(itr3):itr3+3 for itr3 in range(0, 13)}
+            mapper = {str(itr3):itr3 for itr3 in range(3, 16)}
 
         else:
             CurQuantiles = BST_nonFloat["Quantiles"][itr - 35]

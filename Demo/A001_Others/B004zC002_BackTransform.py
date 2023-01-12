@@ -27,11 +27,6 @@ def Execute_C002(Data):
 
         if CurLN:
             CurVal = torch.exp(CurVal) - 1
-            
-        if itr == 0:
-            CurVal = CurVal / 365.25
-            
-        Reverted_Data[:, itr] = CurVal
                           
     #---
     Demo001 = Data[:, 35:37]

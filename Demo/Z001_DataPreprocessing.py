@@ -10,7 +10,7 @@ import 	torch
 ###===###
 # Download our synthetic sepsis dataset from PhysioNet
 # and place it in the A000_Inputs folder
-Folder  = "/home/nic/Z2023/HealthGymV1.0_Software/A000_Inputs/"
+Folder  = "./A000_Inputs/"
 File    = "C001_FakeSepsis.csv"
 
 ###===###
@@ -481,13 +481,13 @@ MyData_Types['index_start']     = (MyData_Types['index_start']).astype(   int)
 MyData_Types['index_end']       = (MyData_Types['index_end']).astype(     int)
 
 # Store the back-transformation statistics
-BTS_Folder = "/home/nic/Z2023/HealthGymV1.0_Software/Z001_Data/BTS/"
+BTS_Folder = "./Z001_Data/BTS/"
 torch.save(A001_BTS_Float,      BTS_Folder + 'A001_BTS_Float')
 torch.save(A001_BTS_nonFloat,   BTS_Folder + 'A001_BTS_nonFloat')
 
 # Store the variable description file
 # and the machine-readable transformed ground-truth
-Input_Folder = "/home/nic/Z2023/HealthGymV1.0_Software/A000_Inputs/"
+Input_Folder = "./A000_Inputs/"
 MyData_Types.to_csv(        Input_Folder + 'A001_DataTypes.csv', index = False)
 MyData_Transformed.to_csv(  Input_Folder + 'A002_MyData.csv',    index = False)
 

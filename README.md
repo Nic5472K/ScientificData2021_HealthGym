@@ -1,3 +1,54 @@
+---
+
+<p align="left">
+  <img src="https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/raw/main/Supporting_Images/ZFig001_HealthGymLogo.png" alt="HealthGym.ai Logo" width="300"/>
+</p>
+
+---
+
+# Health Gym — Updated Repository
+
+We’ve moved!
+The **official and actively maintained Health Gym repository** is now available here:
+
+**[https://github.com/NicKuo-ResearchStuff/Health_Gym_AI](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI)**
+
+---
+
+### Why the Move
+
+The new repository provides a fully updated and expanded version of the Health Gym project -- including all recent models, blogs, and graphical abstracts. It now integrates:
+
+* **GANs, hybrid VAE-GANs, and diffusion models** for realistic, privacy-preserving EMR synthesis
+* **Hands-on tutorials and blog posts** (Health Gym v1–v3)
+* **Education-ready datasets** for teaching, benchmarking, and research reproducibility
+* **Ethics-approved (UNSW HC210661)** and rigorously validated synthetic datasets
+* **Expanded references** and visual walkthroughs for each model generation phase
+
+---
+
+### Deprecation Notice
+
+**This repository (2022)** —
+[`https://github.com/healthgym/healthgym`](https://github.com/healthgym/healthgym) —
+is **archived** and kept for citation continuity (Scientific Data, 2022).
+Please update your bookmarks, citations, and forks to the **new active repository** above.
+
+---
+
+For questions, collaboration, or educational use:
+**[n.kuo@unsw.edu.au](mailto:n.kuo@unsw.edu.au)**
+
+(Last Edit: 2025-11-06)
+
+old stuff in-coming</br>
+... 3</br>
+... 2</br>
+... 1</br>
+
+---
+---
+---
 <pre>
 ###===### 
 # The Health Gym Project (HealthGym)
@@ -59,4 +110,4 @@ For further enquiries, please contact:
 n.kuo@unsw.edu.au
         
 ###===###
-Date updated: 25th of December, 2022 "eji u.4tp6"
+<s>Date updated: 25th of December, 2022 "eji u.4tp6"</s>
